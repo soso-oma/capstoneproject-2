@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my resume</title>
+</head>
+<body>
+    <h1>Mmesomachukwu Ozioma Anyim</h1>
+    <img src="./Project - Copy.JPG"alt Mmesoma Anyim height="200"/>
+    <h2>Summary</h2>
+    <p>Highly motivated web developer dedicated to crafting exceptional digital experiences. I bring a strong work ethic and attention to detail to every project, delivering high-quality results.</p>
+    <hr />
+    <h2>Education</h2>
+ <ul>
+    <li><h3>University</h3></li>
+    <p>Bachelor of Agriculture. Agricultural Economics and Extension. Nnamdi Azikiwe University, Awka (2019-2024).</p>
+    <li><h3>High school</h3></li>
+    <p>Federal Government Girls' College Owerri, Imo state (2013-2019)</p>
+    <li><h3>Nursery and Primary School</h3></li>
+    <p>Alvan Ikoku Federal College of Education Nursery and Primary school (2003-2013).</p> 
+</ul>
+<hr />
+    <h2>Work Experience</h2>
+    <p>None. </p>
+    <h2>Skills</h2>
+    <ul>
+        <li><h3>HTML</h3></li>
+    <p>Proficient in HTML, with experience in building basic web pages.</p>
+    </ul>
+    <h2>Learn more about me</h2>
+    <a href="./About me"> About me</a> <br /> <a href="./Contact me"> Contact details</a> <br/>
+    <hr/>
+  <footer>&copy; Mmesomachukwu Ozioma Anyim</footer>
+
+</body>
+</html>
